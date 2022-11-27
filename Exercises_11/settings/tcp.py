@@ -1,0 +1,8 @@
+TCP = {
+"SERVER_TCP_IPv4": '127.0.0.1',
+"SERVER_PORT": 5001
+}
+#TCP = {
+#"SERVER_TCP_IPv4": '239.1.1.1',
+#"SERVER_PORT": 23
+#}

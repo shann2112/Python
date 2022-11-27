@@ -1,0 +1,1 @@
+copyright = "© Mick Shannon 2022"

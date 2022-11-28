@@ -7,6 +7,9 @@
 
 >This Assignment is to populate a GitHub with all the Python code produced from walkthrough 1 to 12 which spanned several weeks of course work. A local Git repository was created prior to creating an online GitHub distrubuted repository.
 
+**Repository Description**
+>This Python Repository was created to centralise and distrubute Python code and exercise's created by the student. This code demonstrates the basic elements of Python from its setup to some basic and practical code snippets. This repository can be built upon to store functional code which can be utilised in future projects.
+
 **The Aims of this Assignment:**
 1. In your GitHub account, create a repository called "Python"
 2. Save your Python exercises (weeks 2-5)

@@ -1,4 +1,4 @@
-# Michael Shannon L00177543 Assignment 2 #
+# Michael Shannon L00177543 Assignment 2 Python #
 ![img.png](atu.jpg)
 ---
 # This readme.md file contains Assignment Instructions Part 1 #

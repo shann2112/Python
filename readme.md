@@ -1,7 +1,7 @@
 # Michael Shannon L00177543 Assignment 2 Python #
 ![img.png](Python.jpg)
 ---
-# This readme.md file contains Assignment Instructions Part 1 #
+# This readme file contains Assignment Instructions Part 1 #
 
 
 
